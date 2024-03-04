@@ -1,0 +1,980 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 303
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 500
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 420
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "HTML",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "CSS",
+      "slug": "old",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kubernetes",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "GCP",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Azure",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Git",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "GitHub",
+      "slug": "old",
+      "amountOfVideos": 300
+    },
+    {
+      "title": "Bitbucket",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Jira",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Confluence",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Slack",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Trello",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Python Flask",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "REST API",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Android",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "iOS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Unreal Engine",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Blender",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Photoshop",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Illustrator",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "After Effects",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Premiere Pro",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Figma",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Sketch",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "InVision",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Zeplin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Axure RP",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 300
+    },
+    {
+      "title": "Mobile Development",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 270
+    },
+    {
+      "title": "UI/UX Design",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 260
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Internet of Things",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Big Data",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Cloud Computing",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Virtual Reality",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Augmented Reality",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Digital Marketing",
+      "slug": "old",
+      "amountOfVideos": 270
+    },
+    {
+      "title": "Content Marketing",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Social Media Marketing",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Search Engine Optimization",
+      "slug": "old",
+      "amountOfVideos": 280
+    },
+    {
+      "title": "Email Marketing",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Affiliate Marketing",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Influencer Marketing",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Video Marketing",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Analytics",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "User Experience",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Conversion Optimization",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "E-commerce",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Dropshipping",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Amazon FBA",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Shopify",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Blogging",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Podcasting",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Vlogging",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Webinars",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "SEO",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "SEM",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "PPC",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Google Ads",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Facebook Ads",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Instagram Marketing",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Twitter Marketing",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "LinkedIn Marketing",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Pinterest Marketing",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 303
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 500
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 420
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "HTML",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "CSS",
+      "slug": "old",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kubernetes",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "GCP",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Azure",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Git",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "GitHub",
+      "slug": "old",
+      "amountOfVideos": 300
+    },
+    {
+      "title": "Bitbucket",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Jira",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Confluence",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Slack",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Trello",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Python Flask",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "REST API",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Android",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "iOS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Unreal Engine",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Blender",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Photoshop",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Illustrator",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "After Effects",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Premiere Pro",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Figma",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Sketch",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "InVision",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Zeplin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Axure RP",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 300
+    },
+    {
+      "title": "Mobile Development",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 270
+    },
+    {
+      "title": "UI/UX Design",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 260
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Internet of Things",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Big Data",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Cloud Computing",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Virtual Reality",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Augmented Reality",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Digital Marketing",
+      "slug": "old",
+      "amountOfVideos": 270
+    },
+    {
+      "title": "Content Marketing",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Social Media Marketing",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Search Engine Optimization",
+      "slug": "old",
+      "amountOfVideos": 280
+    },
+    {
+      "title": "Email Marketing",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Affiliate Marketing",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Influencer Marketing",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Video Marketing",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Analytics",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "User Experience",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "Conversion Optimization",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "E-commerce",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Dropshipping",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Amazon FBA",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Shopify",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 250
+    },
+    {
+      "title": "Blogging",
+      "slug": "old",
+      "amountOfVideos": 230
+    },
+    {
+      "title": "Podcasting",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Vlogging",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Webinars",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "SEO",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "SEM",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "PPC",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "Google Ads",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Facebook Ads",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Instagram Marketing",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Twitter Marketing",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "LinkedIn Marketing",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Pinterest Marketing",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "id": "de2a",
+      "title": "Tag da Carol",
+      "slug": "tag-da-carol",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "9936",
+      "title": "Teste 123",
+      "slug": "teste-123",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "c036",
+      "title": "deve aparecer na lista sozinho",
+      "slug": "deve-aparecer-na-lista-sozinho",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "ccae",
+      "title": "teste 1",
+      "slug": "teste-1",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "5637",
+      "title": "teste 2",
+      "slug": "teste-2",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "dde9",
+      "title": "Carol",
+      "slug": "carol",
+      "amountOfVideos": 0
+    }
+  ]
+}
